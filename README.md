@@ -1,5 +1,7 @@
 # 2048 AI — Expectimax Search
 
+MAJOR NOTE: finished orginal project in 2025, but made major improvements starting last December of 2025 until end of March 2026 (not improvements in Things I'd try next).
+
 An AI that plays 2048 by looking ahead and picking the best move at each step. Built to explore how expectimax search handles games with randomness, and how far you can push it with better heuristics.
 
 The base game engine is adapted from [this gist](https://gist.github.com/lewisjdeane/752eeba4635b479f8bb2).
